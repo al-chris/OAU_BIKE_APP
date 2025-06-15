@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        ".env": false,
+        "python": false,
+        "c++": false,
+        "dockercompose": false
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.inlayHints.callArgumentNames": "all",
+    "editor.cursorStyle": "line",
+    "editor.dropIntoEditor.preferences": [
+
+    ],
+    "editor.wordWrap": "on",
+    "chat.agent.maxRequests": 35,
+    "chat.editor.wordWrap": "on",
+    "settingsSync.ignoredExtensions": [
+        
+    ],
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.agent.thinkingTool": true
+}
